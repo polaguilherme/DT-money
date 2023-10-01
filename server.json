@@ -10,11 +10,35 @@
     },
     {
       "id": 2,
-      "description": "Compra de videos pornograficos",
+      "description": "Compra de video game",
       "type": "outcome",
       "category": "Venda",
       "price": 500,
       "createdAt": "2023-08-18T16:30:18.244Z"
+    },
+    {
+      "description": "Venda de jogos online",
+      "category": "jogos",
+      "price": 1500,
+      "type": "income",
+      "createdAt": "2023-09-25T18:16:31.270Z",
+      "id": 3
+    },
+    {
+      "description": "Hamburguer mc donalds ",
+      "category": "comida",
+      "price": 1500,
+      "type": "outcome",
+      "createdAt": "2023-09-25T18:38:35.165Z",
+      "id": 4
+    },
+    {
+      "description": "Corte de cabelo",
+      "category": "estetica",
+      "price": 150,
+      "type": "outcome",
+      "createdAt": "2023-09-25T18:38:40.248Z",
+      "id": 5
     }
   ]
 }
