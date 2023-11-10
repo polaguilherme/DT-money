@@ -39,6 +39,30 @@
       "type": "outcome",
       "createdAt": "2023-09-25T18:38:40.248Z",
       "id": 5
+    },
+    {
+      "description": "Site para horarios escolares",
+      "category": "App web",
+      "price": 90,
+      "type": "income",
+      "createdAt": "2023-11-10T15:49:21.663Z",
+      "id": 6
+    },
+    {
+      "description": "site para vender bala",
+      "category": "eafasdasd",
+      "price": 1200,
+      "type": "outcome",
+      "createdAt": "2023-11-10T17:24:13.020Z",
+      "id": 7
+    },
+    {
+      "description": "sda",
+      "category": "sdasas",
+      "price": 100,
+      "type": "income",
+      "createdAt": "2023-11-10T18:09:43.693Z",
+      "id": 8
     }
   ]
 }
